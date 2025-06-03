@@ -23,5 +23,5 @@
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/shubham-kalwar-b74145339)
+- [LinkedIn](https://www.linkedin.com/in/shubham-kalwar-b74145339)
 - [GitHub](https://github.com/Shubham-Kalwar)
