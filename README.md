@@ -1,24 +1,37 @@
-# 👋 Hi, I'm Shubham Kalwar
+#👋 Hi, I'm Shubham Kalwar
 
-🎓 Computer Science Student | 💡 AI & Software Enthusiast  
-🔧 Currently building Python + Flask + Docker apps  
-📚 Exploring Cloud, DevOps, and Generative AI tools  
-🌱 Learning: FastAPI, MongoDB, GitHub Actions  
+🎓 Computer Science Student | 💡 Full-Stack Developer & AI Enthusiast  
+🚀 I enjoy building real-world applications, exploring cloud computing, and learning cutting-edge tech like GenAI.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, JavaScript
-- **Frameworks:** Flask, FastAPI (learning)
-- **Tools:** Docker, Git, VS Code, MongoDB
-- **Cloud/CI-CD:** GitHub Actions, Docker Hub
+- **Languages:** Java, Python, JavaScript  
+- **Frontend:** React.js, HTML, CSS  
+- **Backend:** Node.js, Express, Flask, FastAPI *(learning)*  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Docker, Git, VS Code, GitHub Actions  
+- **Cloud & DevOps:** AWS *(learning)*, Docker Hub  
 
 ---
 
-## 📂 Projects
-- 📌 Flask + Docker Employee Attendance System (coming soon)
-- 📌 Basic Calculator with Python and Tkinter
-- 📌 Personal Portfolio Website (in progress)
+## 📚 Completed Courses
+- ✅ Data Structures & Algorithms in Java  
+- ✅ MERN Stack Development
+
+---
+
+## 💼 Projects
+- 🧾 [Employee Attendance System](#) – Flask + MongoDB + Docker  
+- 🧮 [Basic Calculator](#) – Python + Tkinter  
+- 🌐 [Portfolio Website](#) – React + Tailwind CSS  
+- 🏨 Airbnb Clone (Full Stack) – *In Progress*  
+- 🖤 Obys Agency Clone (Full Stack) – *In Progress*
+
+---
+
+## 🌱 Currently Learning
+AWS | GitHub Actions | Generative AI | UI/UX Design
 
 ---
 
