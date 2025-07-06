@@ -1,4 +1,4 @@
-#👋 Hi, I'm Shubham Kalwar
+👋 Hi, I'm Shubham Kalwar
 
 🎓 Computer Science Student | 💡 Full-Stack Developer & AI Enthusiast  
 🚀 I enjoy building real-world applications, exploring cloud computing, and learning cutting-edge tech like GenAI.
