@@ -154,19 +154,25 @@ Research work exploring an ML-based approach for counterfeit drug identification
 
 ---
 
-# 🧠 Core CS
+# 🧠 Core Computer Science
 
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems
-Computer Networks
-System Design
-REST API Design
-Web Development
-Machine Learning
-Software Engineering
+### 💡 Fundamentals
+
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `Database Management Systems`
+
+### ⚙️ Systems & Networking
+
+`Operating Systems` • `Computer Networks` • `System Design`
+
+### 🌐 Software Development
+
+`REST API Design` • `Web Development` • `Software Engineering`
+
+### 🤖 AI & Data
+
+`Machine Learning` • `Data Structures & Algorithms`
+
+---
 
 # 🏆 Achievements
 
